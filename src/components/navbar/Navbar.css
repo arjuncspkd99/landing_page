@@ -1,0 +1,73 @@
+.navbar {
+  background-color: transparent;
+  display: flex;
+  /* justify-content: space-evenly; */
+  /* align-items: center; */
+  margin-right: 175px !important;
+  /* right: 126px; */
+  /* top: 36px; */
+  width: 367px;
+  height: 19px;
+  /* position: relative; */
+  /* left: -150px; */
+  z-index: 1;
+  align-items: flex-start;
+}
+.menu {
+  width: 357px;
+  height: 19px;
+  gap: 67px;
+  /* padding-right: 375px; */
+  margin: 0;
+  background: transparent !important;
+}
+.demo-logo {
+  /* Logo */
+  display: flex;
+  position: relative;
+  width: 39px;
+  height: 19px;
+  padding-right: 454px;
+  /* left: 175px; */
+  /* top: 36px; */
+
+  /* text/16/bold */
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 19px;
+
+  color: #ffffff;
+}
+
+.menu-item {
+  /* padding: 0px 30px; */
+
+  /* position: relative;
+  display: flex; */
+
+  color: #ffffff;
+
+  /* text/16/regular */
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+}
+
+.top-bar {
+  position: relative;
+  display: flex;
+  align-items: flex-start;
+  max-width: 1090px;
+  height: 91px;
+  margin-bottom: 130px;
+
+  top: 40px;
+  left: 0px;
+  margin-left: 175px;
+  margin-right: 175px;
+  /* justify-content: space-between; */
+}

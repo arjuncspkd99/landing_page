@@ -1,0 +1,414 @@
+/* Frame 87 */
+.footer-div{
+    position: absolute;
+    width: 1440px;
+    height: 493px;
+    left: 0px;
+    /* top: 2514px; */
+    top:2400px;
+    background-image: url('../../assets/images/Polygon-2.png');
+    background-repeat: no-repeat;
+}
+
+/* Frame 92 */
+
+/* Auto layout */
+.footer-text-div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0px;
+    /* gap: 64px; */
+
+    position: absolute;
+    width: 596px;
+    height: 241px;
+    left: 422px;
+    top: 68px;  
+}
+.text-div-heading{
+    width: 497px;
+    height: 39px;
+    /* Heading/Heading 3 */
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 39px;
+    /* identical to box height */
+
+    color: #000000;
+}
+.text-div-txt{
+    width: 596px;
+    height: 54px;
+
+    /* text/12/regular */
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 18px;
+    text-align: center;
+    background: linear-gradient(90deg, #4776E6 0%, #8E54E9 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-shadow: 0px 5px 4px rgba(0, 0, 0, 0.3) !important;
+    background-clip: text;
+    margin-top:18px;
+    margin-bottom: 64px;
+    }
+    .frame2-btn{
+        margin-top:48px;
+        padding-left: 36px;
+        padding-right:35px;
+        padding-top: 15px;
+        padding-bottom:15px;
+        max-width:237px;
+        height:60px;
+    
+    
+        /* danger */
+        background: linear-gradient(90deg, #4776E6 0%, #8E54E9 100%);
+        border-radius: 10px;
+        border: none;
+        /* Inside auto layout */
+        flex: none;
+        order: 1;
+        flex-grow: 0;
+    
+        /* text/20/bold */
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 20px;
+        line-height: 30px;
+        /* identical to box height */
+    
+        color: #FFFFFF;
+    }
+.footer-last-div{
+    /* Frame 88 */
+
+    box-sizing: border-box;
+
+    /* Auto layout */
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 25px ;
+    /* gap: 192px; */
+
+    position: absolute;
+    width: 995px;
+    height: 74px;
+    left: 222px;
+    top: 419px;
+
+    /* Default/white */
+    border-top: 0.5px solid #FFFFFF;
+}
+.social{
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px;
+    gap: 16px;
+    width: 144px;
+    height: 24px;
+}
+.copyright{
+    color: #FFF;
+
+    /* text/12/regular */
+    font-family: Poppins;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.terms{
+    color: #FFF;
+
+    /* text/12/regular */
+    font-family: Poppins;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+/* Vector */
+
+
+.trtrt{
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 16.04%;
+bottom: 16.12%;
+
+/* Default/white */
+background: #FFFFFF;
+
+}
+
+
+/* All Right Reserved @Copyright 2023 */
+.ttt{
+width: 213px;
+height: 18px;
+
+/* text/12/regular */
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 18px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 79 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 64px;
+
+width: 484px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 89 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 24px;
+
+width: 276px;
+height: 18px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Terms of Service */
+
+width: 99px;
+height: 18px;
+
+/* text/12/regular */
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 18px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Privacy Policy */
+
+width: 82px;
+height: 18px;
+
+/* text/12/regular */
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 18px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Product */
+
+width: 47px;
+height: 18px;
+
+/* text/12/regular */
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 18px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Frame 90 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 16px;
+
+width: 144px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* mdi:facebook */
+
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 8.5%;
+bottom: 8.5%;
+
+/* Default/white */
+background: #FFFFFF;
+
+
+/* uil:youtube */
+
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 4.13%;
+right: 4.15%;
+top: 17.74%;
+bottom: 17.8%;
+
+/* Default/white */
+background: #FFFFFF;
+
+
+/* basil:instagram-solid */
+
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 36.46%;
+right: 36.46%;
+top: 36.46%;
+bottom: 36.46%;
+
+/* Default/white */
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 11.7%;
+right: 11.7%;
+top: 11.64%;
+bottom: 11.63%;
+
+/* Default/white */
+background: #FFFFFF;
+
+
+/* uil:twitter */
+
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 16.04%;
+bottom: 16.12%;
+
+/* Default/white */
+background: #FFFFFF;
+
+}
